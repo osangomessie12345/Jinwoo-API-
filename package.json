@@ -14,7 +14,7 @@
     "authentication",
     "bcryptjs"
   ],
-  "author": "Ton Nom",
+  "author": "jinwoo sung",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
